@@ -24,7 +24,7 @@
     <img src="https://img.shields.io/badge/data analysis-ED8B00?style=for-the-badge&logo=data analysis&logoColor=black">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
   <img src="https://img.shields.io/badge/ml-339933?style=for-the-badge&logo=node.ml&logoColor=white">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/OS-FCC624?style=for-the-badge&logo=OS&logoColor=black">
 </p>
 
 ---
