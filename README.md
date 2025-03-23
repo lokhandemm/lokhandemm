@@ -21,7 +21,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/ai-ED8B00?style=for-the-badge&logo=ai&logoColor=white">
-    <img src="https://img.shields.io/badge/data analysis-ED8B00?style=for-the-badge&logo=data analysis&logoColor=white">
+    <img src="https://img.shields.io/badge/data analysis-ED8B00?style=for-the-badge&logo=data analysis&logoColor=black">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
   <img src="https://img.shields.io/badge/ml-339933?style=for-the-badge&logo=node.ml&logoColor=white">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
