@@ -28,7 +28,10 @@
 </p>
 
 ---
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/lokhandemm/lokhandemm/main/assets/banner.png" width="100%" alt="GitHub Banner">
+</p>
+---
 ## 🔥 My GitHub Stats
 
 <p align="center">
