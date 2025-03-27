@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maithili</h1>       
-<h3 align="center">🚀 A Passionate Developer & Tech Enthusiast from India</h3>      
+<h3 align="center">🚀 A Passionate Developer & Tech Enthusiast from India</h3>       
        
 <p align="center">       
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">     
